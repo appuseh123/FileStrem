@@ -21,6 +21,7 @@
 
 <hr>
 
+## Incase you are having trouble deploying bot you may hire developer we have reasonable rates [click here](https://t.me/+KvjFjOWicuZmOTQx)
 
 ## 🍁 About This Bot :
 
