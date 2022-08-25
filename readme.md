@@ -85,7 +85,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/adarsh-goel/filestreambot-pro
+git clone https://github.com/appuseh123/FileStrem
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -170,5 +170,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/adarsh-goel)
+- [Me]
 - Everyone In This Journey !
